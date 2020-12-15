@@ -14,11 +14,11 @@
         <module>server-consumer</module>
         <module>server-register</module>
         <module>server-provider</module>
-        <module>ZuulClient</module>
-        <module>zuulServer1</module>
-        <module>zuulServer2</module>
+        <module>Zuul-Client</module>
+        <module>zuul-Server1</module>
+        <module>zuul-Server2</module>
         <module>hystrix-dashbord</module>
-        <module>configServer</module>
+        <module>config-Server</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
