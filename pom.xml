@@ -19,6 +19,8 @@
         <module>zuul-Server2</module>
         <module>hystrix-dashbord</module>
         <module>config-Server</module>
+        <module>config-client</module>
+        <module>zipkinServer</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
